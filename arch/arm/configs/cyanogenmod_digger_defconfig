@@ -273,6 +273,10 @@ CONFIG_CFG80211=m
 CONFIG_RFKILL=y
 CONFIG_GENLOCK=y
 CONFIG_GENLOCK_MISCDEVICE=y
+# Focus.lau add for sync start
+CONFIG_SYNC=y
+CONFIG_SW_SYNC=y
+# Focus.lau add for sync end
 CONFIG_BLK_DEV_LOOP=y
 CONFIG_BLK_DEV_RAM=y
 #/*[ECID:000000] ZTEBSP doumingming for vibrator, 20120814 start*/
